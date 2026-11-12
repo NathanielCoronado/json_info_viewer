@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Dart",
+    "creator": "Lars Bak and Kasper Lund (Google)",
+    "year": 2011,
+    "type": "Object-oriented, compiled",
+    "usedFor": "Mobile apps with Flutter, web apps",
+    "image": "assets/images/dart.png",
+    "description": "Dart is the language used to build Flutter apps. It is fast, easy to learn, and lets one codebase run on Android, iOS, web and desktop."
+  },
+  {
+    "id": 2,
+    "name": "Python",
+    "creator": "Guido van Rossum",
+    "year": 1991,
+    "type": "Interpreted, high-level",
+    "usedFor": "Data science, AI, automation, web backends",
+    "image": "assets/images/python.png",
+    "description": "Python is known for its simple and readable syntax, which makes it one of the most popular languages for beginners and experts."
+  },
+  {
+    "id": 3,
+    "name": "Java",
+    "creator": "James Gosling (Sun Microsystems)",
+    "year": 1995,
+    "type": "Object-oriented, compiled to bytecode",
+    "usedFor": "Enterprise systems, Android apps, web servers",
+    "image": "assets/images/java.png",
+    "description": "Java follows the idea of 'write once, run anywhere' because its code runs on the Java Virtual Machine on any device."
+  },
+  {
+    "id": 4,
+    "name": "JavaScript",
+    "creator": "Brendan Eich (Netscape)",
+    "year": 1995,
+    "type": "Interpreted, scripting",
+    "usedFor": "Interactive websites, web apps, servers with Node.js",
+    "image": "assets/images/javascript.png",
+    "description": "JavaScript runs in every web browser and makes web pages interactive, such as buttons, forms and animations."
+  },
+  {
+    "id": 5,
+    "name": "C",
+    "creator": "Dennis Ritchie (Bell Labs)",
+    "year": 1972,
+    "type": "Procedural, compiled",
+    "usedFor": "Operating systems, embedded systems, drivers",
+    "image": "assets/images/c.png",
+    "description": "C is one of the oldest languages still widely used. Many modern languages and operating systems were built using C."
+  },
+  {
+    "id": 6,
+    "name": "Kotlin",
+    "creator": "JetBrains",
+    "year": 2011,
+    "type": "Object-oriented, compiled",
+    "usedFor": "Android apps, server-side apps",
+    "image": "assets/images/kotlin.png",
+    "description": "Kotlin is the official preferred language for Android development. It is shorter and safer to write than Java."
+  }
+]
